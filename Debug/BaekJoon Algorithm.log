@@ -1,0 +1,9 @@
+﻿  소스.cpp
+C:\Users\rpdla\source\repos\BaekJoon Algorithm\BaekJoon Algorithm\소스.cpp(13,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\rpdla\source\repos\BaekJoon Algorithm\BaekJoon Algorithm\소스.cpp(19,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\rpdla\source\repos\BaekJoon Algorithm\BaekJoon Algorithm\소스.cpp(23,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\rpdla\source\repos\BaekJoon Algorithm\BaekJoon Algorithm\소스.cpp(27,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\rpdla\source\repos\BaekJoon Algorithm\BaekJoon Algorithm\소스.cpp(28,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\rpdla\source\repos\BaekJoon Algorithm\BaekJoon Algorithm\소스.cpp(41,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\rpdla\source\repos\BaekJoon Algorithm\BaekJoon Algorithm\소스.cpp(43,9): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  BaekJoon Algorithm.vcxproj -> C:\Users\rpdla\source\repos\BaekJoon Algorithm\Debug\BaekJoon Algorithm.exe
