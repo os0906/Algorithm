@@ -5,6 +5,10 @@
 # Prerequisites
 *.d
 
+#VS Project files
+* .vcxproj
+* .filters
+
 # Compiled Object files
 *.slo
 *.lo
