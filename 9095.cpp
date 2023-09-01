@@ -36,6 +36,10 @@ int main() {
 	cin >> T;
 	for (int i{ 0 }; i < T; i++) {
 		cin >> n;
+<<<<<<< HEAD
 		cout << dp(n) << '\n';
+=======
+		cout << dp(n) << endl;
+>>>>>>> ff3643f445500a4356dba7142f1b392199b4ac8b
 	}
 }
