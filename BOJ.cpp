@@ -11,8 +11,16 @@
 #include <stack>
 #include <iomanip>
 using namespace std;
-
+int arr[9];
+int N, K, tmp;
+vector<int>v;
 int main() {
 	ios::sync_with_stdio(false);
 	cin.tie(NULL); cout.tie(NULL);
+	cin >> N >> K;
+	for (int i{ 0 }; i < N; i++) {
+		cin >> tmp;
+		v.push_back(tmp);
+	}
+
 }
