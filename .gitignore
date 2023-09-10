@@ -6,8 +6,8 @@
 *.d
 
 #VS Project files
-* .vcxproj
-* .filters
+*.vcxproj
+*.filters
 
 # Compiled Object files
 *.slo
